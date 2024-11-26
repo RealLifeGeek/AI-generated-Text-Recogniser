@@ -1,4 +1,4 @@
-AI generated text recognizer
+<strong>AI generated text recognizer</strong>
 An AI-generated text recognizer specifically tailored for short-form content, such as tweets and Facebook posts. The ultimate goal is to design a system that evaluates the likelihood of a given text being human-authored or AI-generated. 
  
 Background 
