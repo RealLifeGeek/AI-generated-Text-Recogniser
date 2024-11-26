@@ -1,4 +1,4 @@
-<h1><strong><u>AI generated text recognizer</u></strong></h1><br>
+# Project Title AI generated text recognizer <br>
 An AI-generated text recognizer specifically tailored for short-form content, such as tweets and Facebook posts. The ultimate goal is to design a system that evaluates the likelihood of a given text being human-authored or AI-generated. 
  
 <h2><strong><u>Background</strong></u></strong></h2><br>
