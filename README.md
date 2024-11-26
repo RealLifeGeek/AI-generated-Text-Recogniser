@@ -45,7 +45,7 @@ User-generated content repositories, such as open forums or archives of short-fo
  
 <i>Misuse of detection:</i> The recognizer identifies patterns but doesn't explain why a post was classified as AI-generated. This could lead to ethical concerns if the tool is used to accuse individuals of dishonesty or to discredit genuine posts. 
  
-The neural network in the provided code <strong>isn't trained!</strong> It initializes the weights randomly, which means the model has no learned knowledge about how to classify human vs. AI text. The model is merely passing random values through the network and outputting probabilities based on those initial random weights. 
+The neural network in the provided code (you can find the code directly in repository) <strong>isn't trained!</strong> It initializes the weights randomly, which means the model has no learned knowledge about how to classify human vs. AI text. The model is merely passing random values through the network and outputting probabilities based on those initial random weights. 
 
 ## What next?
 
