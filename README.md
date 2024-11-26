@@ -42,7 +42,7 @@ User-generated content repositories, such as open forums or archives of short-fo
 
 ## Challenges
 
-<i>Edited or hybrid content:</i> If an AI-generated post is slightly edited by a human, or vice versa, your system may struggle to accurately classify it. 
+<i>Edited or hybrid content:</i> If an AI-generated post is slightly edited by a human, or vice versa, the system may struggle to accurately classify it. 
  
 <i>Context understanding:</i> The tool doesn’t consider the broader context of the post, such as who authored it, their writing style, or the cultural and situational nuances. 
  
