@@ -1,4 +1,4 @@
-# Project Title AI generated text recognizer
+# AI-generated Text Recognizer
 
 Final project for the Building AI course
 
