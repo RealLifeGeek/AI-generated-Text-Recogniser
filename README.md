@@ -35,7 +35,7 @@ Google's Bard
 Meta's Llama 
 Other AI writing tools like Jasper, Writesonic, or Copy.ai 
  
-<i>For a human-created contend there is a plenty of options like:</i>
+<i>For a human-created content there is a plenty of options like:</i>
 Publicly available social media platforms like Twitter and Facebook. 
 Publicly available corpora of conversaional or informal text (e.g., Reddit comments or Kaggle datasets of tweets). 
 User-generated content repositories, such as open forums or archives of short-form writing. 
