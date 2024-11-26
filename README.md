@@ -20,7 +20,9 @@ With growing concerns about AI misuse, such as deepfakes or automated misinforma
 
 ## How is it used?
 
-The AI-generated text recognizer is designed to operate primarily in the context of social media platforms like Twitter and Facebook, where short-form text dominates. It can be used as a standalone tool or integrated into other systems (e.g., moderation tools, content analysis platforms). 
+The AI-generated text recognizer is designed to operate primarily in the context of social media platforms like Twitter and Facebook, where short-form text dominates. It can be used as a standalone tool or integrated into other systems (e.g., moderation tools, content analysis platforms).
+
+The code using a TF-IDF method in combination with a simple neural network is placed in the project reporitory (<a href="https://github.com/RealLifeGeek/AI-generated-Text-Recogniser/blob/main/AI-generated%20text%20recognizer.py">AI-generated Text Recognizer - code</a>).
 
 
 ## Data sources and AI methods
